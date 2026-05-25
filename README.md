@@ -1,5 +1,6 @@
 # Proyectoarduino
 Sistema de puerta inteligente 
+```cpp
 #include <Servo.h>
 
 // Definición de pines
